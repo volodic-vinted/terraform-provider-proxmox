@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.106.1](https://github.com/bpg/terraform-provider-proxmox/compare/v0.106.0...v0.106.1) (2026-05-07)
+
+
+### Miscellaneous
+
+* **vm2:** error format sweep ([#2861](https://github.com/bpg/terraform-provider-proxmox/issues/2861)) ([047c4d4](https://github.com/bpg/terraform-provider-proxmox/commit/047c4d426c682030c6988479393bf32976908c4d))
+
 ## [0.106.0](https://github.com/bpg/terraform-provider-proxmox/compare/v0.105.0...v0.106.0) (2026-05-06)
 
 
